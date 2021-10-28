@@ -1,8 +1,13 @@
-### Hi there 👋
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta)](https://github.com/gerasy1987/hiddenmeta)
+## 👋 I’m Gosha, here are some stats about me ...
 
 ![gerasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerasy1987&show_icons=true&theme=gruvbox)
+
+## ... and I’m currently working on 🔭 ...
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta)](https://github.com/gerasy1987/hiddenmeta) 
+
+---
+## ... and for that I'm mostly using 💻 ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerasy1987&layout=compact)](https://github.com/gerasy1987/hiddenmeta)
 
@@ -12,7 +17,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
