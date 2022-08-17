@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=dark)](https://github.com/gerasy1987/hiddenmeta) 
 
-## 💻 ... and for that I'm mostly using ...
+### 💻 ... and for that I'm mostly using ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerasy1987&layout=compact&theme=dark)](https://github.com/gerasy1987/hiddenmeta)
 
