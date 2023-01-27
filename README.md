@@ -1,14 +1,6 @@
 # Hey 👋 I’m Gosha
 
-### some GitHub stats
-
-![gerasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerasy1987&show_icons=true&theme=dark&hide_border=true)
-
-### 🔭 and I’m currently working on the project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=dark&hide_border=true)](https://github.com/gerasy1987/hiddenmeta) 
-
-### ⛏️ Here are some tools I'm using
+### my ⛏️
 
 ![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
@@ -21,6 +13,14 @@
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)
 ![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
+### some GitHub stats
+
+![gerasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerasy1987&show_icons=true&theme=dark&hide_border=true)
+
+### currently working on
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=dark&hide_border=true)](https://github.com/gerasy1987/hiddenmeta) 
 
 <!--
 **gerasy1987/gerasy1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
