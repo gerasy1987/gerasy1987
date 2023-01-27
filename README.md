@@ -14,12 +14,8 @@
 ![](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)
 ![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
-### some GitHub stats
 
 ![gerasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerasy1987&show_icons=true&theme=dark&hide_border=true)
-
-### currently working on
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=dark&hide_border=true)](https://github.com/gerasy1987/hiddenmeta) 
 
 <!--
