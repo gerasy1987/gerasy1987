@@ -2,18 +2,21 @@
 
 ### my ⛏️
 
-![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
-![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)
-![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-
+![](https://img.shields.io/badge/Brave-FF1B2D?style=flat&logo=Brave&logoColor=white)
+![](https://img.shields.io/badge/i3wm-FF1B2D?style=flat&logoColor=white)
+![](https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/StackExchange-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)
+![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=Nextcloud&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=Mastodon&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Onlyoffice-444444?style=flat&logo=ONLYOFFICE&logoColor=white)
+![](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
 
 ![gerasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerasy1987&show_icons=true&theme=dark&hide_border=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=dark&hide_border=true)](https://github.com/gerasy1987/hiddenmeta) 
